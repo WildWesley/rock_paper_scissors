@@ -1,0 +1,56 @@
+.Total-Page {
+    background-color: #212A31;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*More Colors: 2E3944, 124E66, 748D92, D3D9D4*/
+
+.Title {
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+.Changing-Text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+.Button-Choices {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+}
+
+.Button-Box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
+}
+
+.Button-Choice {
+    background-color: #D3D9D4;
+}
+
+.Score {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.Title-Text, .Changing-Texts, .Score-Text {
+    color: #D3D9D4;
+}
